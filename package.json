@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "echarts": "^4.6.0",
+    "jasonp": "^1.0.0",
+    "jsonp": "^0.2.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
@@ -37,5 +40,9 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "author": "",
+  "license": "ISC"
 }
